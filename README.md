@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on Android apps.
+- 🌱 I’m currently learning Jetpack, Flutter and gradle plugins..
+
+- ⚡ Writing things at: 
+  * [juejin](https://juejin.im/user/1345457960787022)
+  * [cnblogs](https://www.cnblogs.com/mengdd/)
