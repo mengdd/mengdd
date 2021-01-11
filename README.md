@@ -22,4 +22,4 @@ Here are some ideas to get you started:
   * [juejin](https://juejin.im/user/1345457960787022)
   * [cnblogs](https://www.cnblogs.com/mengdd/)
 
-![Mengdd's github stats](https://github-readme-stats.vercel.app/api?username=mengdd&show_icons=true)
+![Mengdd's github stats](https://github-readme-stats.vercel.app/api?username=mengdd&show_icons=true&count_private=true)
