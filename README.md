@@ -21,3 +21,5 @@ Here are some ideas to get you started:
 - ⚡ Writing things at: 
   * [juejin](https://juejin.im/user/1345457960787022)
   * [cnblogs](https://www.cnblogs.com/mengdd/)
+
+![Mengdd's github stats](https://github-readme-stats.vercel.app/api?username=mengdd&show_icons=true)
