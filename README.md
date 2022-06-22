@@ -15,11 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on Android apps.
-- 🌱 I’m currently learning Jetpack, Flutter and gradle plugins..
+- 🔭 I’m currently working on Mobile apps.
+- 🌱 I’m currently learning iOS. (But still love Android.)
 
-- ⚡ Writing things at: 
-  * [juejin](https://juejin.im/user/1345457960787022)
-  * [cnblogs](https://www.cnblogs.com/mengdd/)
+- ⚡ Writing things at:
+  * [medium](https://medium.com/@danmeng_44632)
+  * [dev.to](https://dev.to/mengdd)
+  * [juejin](https://juejin.im/user/1345457960787022) (Chinese)
+  * [cnblogs](https://www.cnblogs.com/mengdd/) (Chinese)
 
 ![Mengdd's github stats](https://github-readme-stats.vercel.app/api?username=mengdd&show_icons=true&count_private=true)
