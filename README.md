@@ -15,8 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on Mobile apps.
-- 🌱 I’m currently learning iOS. (But still love Android.)
+- 🔭 I’m currently working on mobile apps.
+- 🌱 I’m currently learning Iot, iOS SwiftUI.
+- 💬 Ask me about android, kotlin.
 
 - ⚡ Writing things at:
   * [medium](https://medium.com/@danmeng_44632)
